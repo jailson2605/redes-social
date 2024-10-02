@@ -6,3 +6,11 @@
     --segundary-color: #F5F5F5;
     --font:"Nunito Sans", system-ui;
 }
+
+body{
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
